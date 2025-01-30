@@ -2,6 +2,8 @@
 
 A starter template for building web applications with Astro, Tailwind CSS, and Flowbite.
 
+![Image](https://github.com/user-attachments/assets/d9b10353-f85a-42ad-a049-f65540a4d1a4)
+
 ## 🚀 Features
 
 - [Astro](https://astro.build/) - Modern static site builder
