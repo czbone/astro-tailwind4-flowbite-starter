@@ -78,9 +78,9 @@ pnpm build
 
 ## 📚 Dependencies
 
-- Astro v5.2.1
-- Tailwind CSS v4.0.1
-- Flowbite v3.0.0
+- Astro v5.2.3
+- Tailwind CSS v4.0.2
+- Flowbite v3.1.1
 - TypeScript v5.7.3
 
 ## 📄 License
